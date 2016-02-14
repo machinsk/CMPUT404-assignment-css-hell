@@ -2,28 +2,27 @@
 body {
   margin:5%;
   text-align: justify;
-  background-color: purple;
-  font-family: Helvetica, Courier, "Times New Roman";
-}
-
-.toc {
-  color: yellow;
+  background-color: #FFFA75;
+  font-family: Helvetica, "Times New Roman";
+  background-image: url(bg1.jpg);
 }
 
 a {
-  color: yellow;
+  color: black;
 }
 
 P {
   text-indent: 1em;
-  margin-top: .25em;
-  margin-bottom: .25em;
+  margin-top: .75em;
+  margin-bottom: .75em;
+  font-family: Courier;
 }
 
-H1,H2,H3,H4,H5,H6 {
-  text-align: right;
-  margin-left: 15%;
-  margin-right: 15%;
+H1,H2,H3,H4,H5,H6,big,.toc,table {
+  font-family: Courier;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 hr  {
@@ -44,6 +43,7 @@ blockquote {
   font-style: italic;
   margin-left: 10%;
   margin-right: 10%;
+  text-align: center;
 }
 
 .mynote    {
@@ -56,40 +56,28 @@ blockquote {
   font-size: 95%;
 }
 
-.toc {
-  margin-left: 10%;
-  margin-bottom: .75em;
-}
-
-.toc2 {
-  margin-left: 20%;
-}
-
-div.fig {
-  display:block;
-  margin:0 auto;
-  text-align:center;
-}
-
-.figleft {
-  float: left;
-  margin-left: 0%;
-  margin-right: 1%;
-}
-
-.figright  {
-  float: right;
-  margin-right: 0%;
-  margin-left: 1%;
-}
 
 pre {
+  font-family: Courier;
   font-style: italic;
-  font-size: 90%;
+  font-size: 70%;
   margin-left: 10%;
 }
 
 
 h1{
-  color: red;
+  font-family: "Brush Script MT";
+  font-size: 5em;
+  color: black;
+}
+
+h2,h3{
+  font-family: "Brush Script MT";
+  font-size: 3em;
+  color: black;
+}
+
+img {
+	width:250px;
+	height:auto;
 }
