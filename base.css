@@ -18,7 +18,7 @@ P {
   font-family: Courier;
 }
 
-H1,H2,H3,H4,H5,H6,big,.toc,table {
+H1,H2,H3,H4,H5,H6,big,.toc,table,div {
   font-family: Courier;
   text-align: center;
   margin-left: auto;
@@ -78,6 +78,7 @@ h2,h3{
 }
 
 img {
-	width:250px;
+	width:250px !important;
 	height:auto;
+  align: center !important;
 }
