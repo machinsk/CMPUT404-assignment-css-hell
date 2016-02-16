@@ -18,7 +18,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Do NOT open ugly.html if you have Photosensitive epilepsy, I hold no liability, 
 so open at your own risk.
 
-All html files are better viewed in Chrome for extra fronts. All screenshots for
+All html files are better viewed in the newest version of Chrome on Windows 10 for extra fronts. All screenshots for
  the assignment are in the screenshots folder. Enjoy.
 
 Part 1:
