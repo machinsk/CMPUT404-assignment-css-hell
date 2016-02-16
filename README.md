@@ -26,7 +26,7 @@ Animation code used was modified from:
 Feb. 14, 2016
 http://www.w3schools.com/css/css3_animations.asp
 
-Margin and Border code used was modified from:
+Margin, Padding, and Border code used was modified from:
 Feb. 14, 2016
 http://www.w3schools.com/css/css_border.asp
 
