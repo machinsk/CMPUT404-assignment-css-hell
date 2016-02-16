@@ -6,7 +6,7 @@ p, ol, ul, li, a {
 }
 body{
 
-      animation:bg 3s linear infinite;
+      animation:bg 0.15s linear infinite;
   }
   @keyframes bg {
   0%   {background-color:red;}
@@ -35,8 +35,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
   }
+
+#topM{
+  background-color: #333;
+}
 
 
 li a {

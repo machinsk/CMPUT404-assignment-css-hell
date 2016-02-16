@@ -1,0 +1,91 @@
+html, body, h1, h2, h3,
+p, ol, ul, li, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+html {
+  background-image: url(bg2.jpg);
+}
+
+body {
+  margin: 0 12.5% 0 12.5%
+}
+
+#content {
+  background-color: white;
+  padding: 0 10px 0 10px
+}
+
+#name {
+  font-family: serif;
+  padding: 5%;
+  background-color: #2AAD2A;
+  font-size: 4em;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.menu {
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+  }
+
+.menu li {
+    display: inline-block;
+  }
+
+
+li a {
+    float: left;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.pages img{
+  float: left;
+  padding-right: 10px;
+}
+
+.pages li {
+  padding: 10px 0 120px 0;
+}
+
+#cavalry {
+  padding: 0 0 50px 0;
+}
+
+ #kia {
+  padding: 0 0 50px 0;
+ }
+
+ #bby {
+  padding: 0 0 0 0;
+}
+
+h3 {
+  padding-top: 5px;
+}
+
+h2 {
+  padding-bottom: 5px;
+  border-bottom: 2px solid black;
+}
